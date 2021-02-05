@@ -16,3 +16,4 @@ c.  Screenshots:
 
 <img width="486" alt="Hamburger Menu" src="https://user-images.githubusercontent.com/77028806/107091424-a1ba9300-67b6-11eb-8c03-fead0271aa71.png">
 <img width="484" alt="Mobile View" src="https://user-images.githubusercontent.com/77028806/107091011-e691fa00-67b5-11eb-863c-85ca14929810.png">
+<img width="2066" alt="Desktop Size" src="https://user-images.githubusercontent.com/77028806/107092254-1c37e280-67b8-11eb-88b0-a2fed4be3e7c.png">
