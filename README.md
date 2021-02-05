@@ -14,5 +14,4 @@ b.	Hosting Webpage on GitHub and here is a link to the app:
 
 c.  Screenshots:
 
-Mobile Level
 <img width="484" alt="Mobile View" src="https://user-images.githubusercontent.com/77028806/107091011-e691fa00-67b5-11eb-863c-85ca14929810.png">
