@@ -1,44 +1,13 @@
-# 01 HTML CSS Git: Code Refactor
+a.	App Description
+Refactoring is a technique of restructuring existing code easy to read, easier to debug by other web developers in team and cheaper to modify, while maintaining its external behavior of the existing code. In my opinion we should be mindful while improving existing code quality by incorporating the popular concept of coding that Don’t Repeat Yourself (DRY), make the code meets accessibility standards as well as webpage fully optimized for search engines. 
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+So, you may be asking how did you meet the user story and acceptance criteria for this existing webpage. First, I incorporated Accessible Rich Internet Applications (ARIA) web standards specification written by the W3C, describing a set of additional HTML attributes that can be applied to elements to provide supplementary semantics and improve accessibility wherever it is missing for special people with disabilities. 
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+In recent years, as various industries make amazing advancements in technology, there has been an increasing demand for professionals’ web code developers who are skilled in new web technologies like html Semantics, flexbox, bootstrap etc. By, keeping in mind the user experience I replaced most of the DIVs with html semantics Elements such as <header>, <nav>, <main>, <section>, <article>, <aside>, and <footer>. 
+First, it is much cooler to read. The easier it is to read and comprehend that code, the easier it makes your job. It has better accessibility. Users are not the only one that finds semantic elements easier to understand. Search engines and assistive technologies (like screen readers for users with a sight impairment) are also able to better grasp the context and content of your website, meaning a healthier experience for your users. Overall, semantic elements also lead to more consistent code. 
 
-> Always leave the code you are editing a little cleaner than you found it.
+As you know the before the refactoring of existing code the current webpage was not responsive al all on all devices, so I did make the webpage fully responsive for all devices resolutions by adding css3 media quarries to the code. So, I used css3 media quarries for different devices like mobile, tablet, desktop etc. to achieve the goals of making the webpage fully responsive. 
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+On top of that, I added a mobile friendly navigation menu called hamburger menu for small screen devices. When you start shrinking the webpage it will be adjusting per the screen viewport. 
 
-## User Story
-
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
-
-## Acceptance Criteria
-
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
-
-- - -
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+b.	Hosting Webpage on GitHub and here is a link to the app:
