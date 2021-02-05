@@ -14,4 +14,5 @@ b.	Hosting Webpage on GitHub and here is a link to the app:
 
 c.  Screenshots:
 
+<img width="486" alt="Hamburger Menu" src="https://user-images.githubusercontent.com/77028806/107091424-a1ba9300-67b6-11eb-8c03-fead0271aa71.png">
 <img width="484" alt="Mobile View" src="https://user-images.githubusercontent.com/77028806/107091011-e691fa00-67b5-11eb-863c-85ca14929810.png">
